@@ -1,6 +1,6 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.idea/
+target/
+*.iml
+git.properties
+resolve-web/resolve-web-UPDATE-COPY.bat
+**/resolve.properties
